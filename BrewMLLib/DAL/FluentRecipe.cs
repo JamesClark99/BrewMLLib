@@ -13,7 +13,9 @@ namespace BrewMLLib.DAL
     //}
 
 
-
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IFluentRecipe
     {
         
