@@ -9,7 +9,9 @@ using BrewMLLib.Models;
 namespace BrewMLLib.DAL
 {
 
-
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IFluentPlant
     {
        
